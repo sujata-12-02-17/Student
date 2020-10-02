@@ -6,9 +6,7 @@ public class Student{
         Student s=new Student();
         s.Roll_no=1;
         s.name="sujata";
-
-    }
-
-
+   
+    } 
 
 }
